@@ -38,7 +38,6 @@ In addition to the [base requirements](base_requirements):
 
     * Using `docker compose`:
       ```yaml
-      version: "2.1"
       services:
         mylar3:
           image: lscr.io/linuxserver/mylar3:latest
