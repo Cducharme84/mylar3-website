@@ -13,4 +13,4 @@ Mylar3 requires:
 - unrar (linux/macOS/Windows) or winrar (windows with the `Install in PATH` option or manually added post winrar install) 
 - an API key from [ComicVine](https://comicvine.gamespot.com/api)
 
-- Alternately `Docker` and `Docker Compose` 
+- Alternately `Docker` and `Docker Compose (recommended not required)` 
