@@ -11,8 +11,8 @@ Open issues on the [main repo](https://github.com/mylar/mylar3/) branch to keep 
 
 ## Repos
 
-* [Mylar3](https://github.com/mylar3/mylar3/)
-* [Mylar3 website (mylarcomics.com)](https://github.com/mylar3/mylar3-website)
+* [Mylar3](https://github.com/mylar3/mylar3/) Master is retired - Please use `python3-dev` as stable replacement and `1000papercuts` if you want to avoid lime juice and test new features.
+* [Mylar3 website (mylarcomics.com)](https://github.com/mylar3/mylar3-website) Domain expired, new and shiny replacement "soon"
 
 ## Website
 
