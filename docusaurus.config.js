@@ -14,11 +14,11 @@ const config = {
   url: 'https://mylar.nerdfirehurricane.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/mylar3-website',
+  baseUrl: '',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'mylar3', // Usually your GitHub org/user name.
+  organizationName: 'cducharme84', // Usually your GitHub org/user name.
   projectName: 'mylar3-website/', // Usually your repo name.
   trailingSlash: false,
 
