@@ -91,12 +91,6 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://forum.mylarcomics.com',
-            className: 'header-forums-link',
-            'aria-label': 'Forums',
-            position: 'right',
-          },
-          {
             href: 'https://github.com/mylar3/mylar3',
             className: 'header-github-link',
             'aria-label': 'GitHub',
@@ -122,10 +116,6 @@ const config = {
               {
                 label: 'Discord',
                 href: 'https://discord.gg/6UG94R7E8T',
-              },
-              {
-                label: 'Forums',
-                href: 'https://forum.mylarcomics.com',
               },
             ],
           },
