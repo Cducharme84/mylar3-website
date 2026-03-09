@@ -31,7 +31,7 @@ const sidebars = {
                 {
                     type: 'doc',
                     id: 'installation/cv_cache',
-                    lavel: 'Comic Vine Cache'
+                    label: 'Comic Vine Cache'
                 },
                 {
                     type: 'category',
